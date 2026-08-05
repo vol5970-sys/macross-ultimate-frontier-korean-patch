@@ -1,0 +1,10 @@
+{
+  "version": "V33 PSP START TEST",
+  "source_iso_sha256": "86E942C37F8EDAAF9ED1AC4E9292BBCACBEF331B7AEE6027FB896E015751B205",
+  "target_iso_sha256": "AF3DCDD10CD829AFE6F70903CA27EA429832936B44EAA64258354BDA67B325B4",
+  "patch_sha256": "4ADCF41933B9197BEA33CEAA254459F5E2D57407E83304520B1222E8EF911E2B",
+  "fileset_offset": 213516288,
+  "eboot_offset": 98304,
+  "eboot_policy": "original encrypted ~PSP EBOOT.BIN preserved",
+  "verification": "xdelta decode SHA256 matches target ISO"
+}
