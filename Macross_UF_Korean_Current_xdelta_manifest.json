@@ -1,0 +1,11 @@
+{
+  "name": "Macross_UF_Korean_Current",
+  "source_iso_name": "Macross Ultimate Frontier (Japan).iso",
+  "source_iso_sha256": "86E942C37F8EDAAF9ED1AC4E9292BBCACBEF331B7AEE6027FB896E015751B205",
+  "target_iso_sha256": "D147036650ADCC740B0276FAED45C5662EE5FCD6EE6F1912F0EA87169FADA3FE",
+  "patch_sha256": "30D9D195BCEDB2B34B86F68FA3A4B19714632134F4C63B4A3640E3DC1C82A455",
+  "source_iso_size": 1237843968,
+  "target_iso_size": 1237843968,
+  "patch_size": 3353617,
+  "verification": "xdelta decode hash matches target ISO; original ISO not included"
+}
